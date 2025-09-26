@@ -1,0 +1,21 @@
+:root {
+    background-color: #313244;
+    color: #cdd6f4;
+}
+
+.main {
+    max-width: 650px;
+    margin: auto;
+    padding: 10px;
+}
+a:link {
+    color: #f5c2e7;
+}
+a:visited {
+    color: #eba0ac;
+}
+buttons {
+    max-width: 650px;
+    margin: auto;
+    padding: 10px;
+}
